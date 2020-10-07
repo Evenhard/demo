@@ -11,7 +11,7 @@
         "name": "Смартфон Samsung Galaxy A51 64GB", 
         "price": 15990, 
         "image": "https://avatars.mds.yandex.net/get-mpic/1626700/img_id7735018695857307227.jpeg/9hq",
-        "properties": ["на платформе Android", "поддержка двух SIM карт", "экран 65", "1", "1", "1", "1", "1", "1", "1", "1"]
+        "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "1", "1", "1", "1", "1", "1", "1", "1"]
     },
     { "id": 2, "categoryId": 1, "name": "Телевизор #2", "price": 150, "image": "https://avatars.mds.yandex.net/get-mpic/1626700/img_id7735018695857307227.jpeg/9hq", "properties": ["Значение свойства #2"] },
     { "id": 3, "categoryId": 2, "name": "Холодильник #1", "price": 90, "image": "https://avatars.mds.yandex.net/get-mpic/1626700/img_id7735018695857307227.jpeg/9hq", "properties": ["Значение свойства #3"] }
