@@ -5,7 +5,14 @@
     { "id": 3, "name": "qqqqqqqqqq" }
   ],
   "products": [
-    { "id": 1, "categoryId": 1, "name": "Телевизор #1", "price": 100, "property": "Значение свойства #1" },
+    { 
+        "id": 1, 
+        "categoryId": 1, 
+        "name": "Смартфон Samsung Galaxy A51 64GB", 
+        "price": 15990, 
+        "image": "https://avatars.mds.yandex.net/get-mpic/1626700/img_id7735018695857307227.jpeg/9hq",
+        "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА⋅ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"],
+    },
     { "id": 2, "categoryId": 1, "name": "Телевизор #2", "price": 150, "property": "Значение свойства #2" },
     { "id": 3, "categoryId": 2, "name": "Холодильник #1", "price": 90, "property": "Значение свойства #3" }
   ],
