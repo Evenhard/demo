@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "categories": [
+    { "id": 1, "name": "Телевизоры" },
+    { "id": 2, "name": "Холодильники" },
+    { "id": 3, "name": "qqqqqqqqqq" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "products": [
+    { "id": 1, category: 1, "name": "Телевизор #1", price: 100, property: "Значение свойства #1" },
+    { "id": 2, category: 1, "name": "Телевизор #2", price: 150, property: "Значение свойства #2" },
+    { "id": 3, category: 2, "name": "Холодильник #1", price: 90, property: "Значение свойства #3" }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "SionicTestApi"
   }
 }
