@@ -1,10 +1,10 @@
 {
   "categories": [
-    { "id": 1, "name": "Смартфоны" },
-    { "id": 2, "name": "Планшеты" },
-    { "id": 3, "name": "Фотоаппараты" },
-    { "id": 4, "name": "Аудиотехника" },
-    { "id": 5, "name": "Виртуальная реальность" }
+    { "id": 1, "name": "Смартфоны", "image": "https://avatars.mds.yandex.net/get-mpic/1626700/img_id7735018695857307227.jpeg/9hq" },
+    { "id": 2, "name": "Планшеты", "image": "https://avatars.mds.yandex.net/get-marketpic/1686254/market_2h9DQ0plzvrSh6BPG0qsQQ/600x600" },
+    { "id": 3, "name": "Фотоаппараты", "image": "https://avatars.mds.yandex.net/get-mpic/1246680/img_id3035050041215186803.png/9hq" },
+    { "id": 4, "name": "Аудиотехника", "image": "https://avatars.mds.yandex.net/get-mpic/1855911/img_id3049047685638395082.jpeg/9hq" },
+    { "id": 5, "name": "Виртуальная реальность", "image": "https://avatars.mds.yandex.net/get-mpic/195452/img_id3253905843049958906/6hq" }
   ],
 
   "products": [
