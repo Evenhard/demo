@@ -2,9 +2,7 @@
     "categories": [
       { "id": 1, "name": "Смартфоны", "image": "https://avatars.mds.yandex.net/get-mpic/1626700/img_id7735018695857307227.jpeg/9hq" },
       { "id": 2, "name": "Планшеты", "image": "https://avatars.mds.yandex.net/get-marketpic/1686254/market_2h9DQ0plzvrSh6BPG0qsQQ/600x600" },
-      { "id": 3, "name": "Фотоаппараты", "image": "https://avatars.mds.yandex.net/get-mpic/1246680/img_id3035050041215186803.png/9hq" },
-      { "id": 4, "name": "Аудиотехника", "image": "https://avatars.mds.yandex.net/get-mpic/1855911/img_id3049047685638395082.jpeg/9hq" },
-      { "id": 5, "name": "Виртуальная реальность", "image": "https://avatars.mds.yandex.net/get-mpic/195452/img_id3253905843049958906/6hq" }
+      { "id": 3, "name": "Фотоаппараты", "image": "https://avatars.mds.yandex.net/get-mpic/1246680/img_id3035050041215186803.png/9hq" }
     ],
   
     "products": [
@@ -104,8 +102,24 @@
         "price": 18200, 
         "image": "https://avatars.mds.yandex.net/get-mpic/1865543/img_id3000149619713649275.jpeg/6hq",
         "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+
+      { 
+        "id": 301, 
+        "categoryId": 3, 
+        "name": "Фотоаппарат Nikon D3500 Kit", 
+        "price": 32990, 
+        "image": "https://avatars.mds.yandex.net/get-mpic/1246680/img_id3035050041215186803.png/6hq",
+        "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
+      },
+      { 
+        "id": 302, 
+        "categoryId": 3, 
+        "name": "Фотоаппарат Fujifilm X-A7 Kit", 
+        "price": 42990, 
+        "image": "https://avatars.mds.yandex.net/get-mpic/1912364/img_id8842095287817543936.jpeg/6hq",
+        "properties": ["на платформе Android", "поддержка двух SIM-карт", "экран 6.5", "разрешение 2400x1080", "4 камеры: 48 МП, 12 МП, 5 МП, 5 МП", "процессор Samsung Exynos 9611", "память 64 ГБ, слот для карты памяти", "3G, 4G LTE, Wi-Fi, Bluetooth, NFC", "объем оперативной памяти 4 ГБ", "аккумулятор 4000 мА/ч", "вес 172 г, ШxВxТ 73.60x158.50x7.90 мм"]
       }
-  
     ],
   
     "profile": {
